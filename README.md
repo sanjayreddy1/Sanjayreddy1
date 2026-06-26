@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Sanjay%20Kumar%20D&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20IoT%20Engineer%20%7C%20AI%2FML%20%7C%20Mobile%20Developer&descAlignY=58&descSize=17&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+things+that+actually+work+%E2%9A%A1;Flask+%7C+FastAPI+%7C+MySQL+%7C+PostgreSQL;Flutter+%7C+Kotlin+%7C+Rust+%7C+Mobile+Dev;IoT+with+ESP32+%26+Blynk;RAG+%7C+Fine-Tuning+%7C+AI+Integration;Breaking+things+to+make+them+better+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+things+that+actually+work+%E2%9A%A1;Flask+%7C+FastAPI+%7C+MySQL+%7C+PostgreSQL;Flutter+%7C+Kotlin+%7C+Rust+%7C+Mobile+Dev;IoT+with+ESP32+%26+Blynk;RAG+%7C+Fine-Tuning+%7C+AI+Integration;Oracle+Certified+Gen+AI+%26+APEX+Developer+%F0%9F%8F%85;Mini+Compiler+Designer+%F0%9F%A7%A0;Breaking+things+to+make+them+better+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,9 +21,13 @@
 ```python
 class SanjayKumar:
     def __init__(self):
-        self.name       = "Sanjay Kumar D"
-        self.role       = "Full Stack · Mobile · IoT · AI/ML Developer"
-        self.location   = "India 🇮🇳"
+        self.name         = "Sanjay Kumar D"
+        self.role         = "Full Stack · Mobile · IoT · AI/ML Developer"
+        self.location     = "India 🇮🇳"
+        self.certifications = [
+            "🏅 Oracle Certified — Generative AI Professional",
+            "🏅 Oracle Certified — APEX Developer Professional",
+        ]
 
     @property
     def currently_building(self):
@@ -31,6 +35,13 @@ class SanjayKumar:
             "🚗 Smart Car Parking Web App  — Flask + MySQL + QR Payments",
             "💼 AI-Integrated Payroll & Salary System — Billing Logic + AI",
             "⚡ IoT Energy Meter — ESP32 + CT Sensor + LCD + Blynk",
+        ]
+
+    @property
+    def highlight_projects(self):
+        return [
+            "🧠 Mini Compiler — Lexer + Parser + Semantic Analyzer built from scratch",
+            "🤖 Tic Tac Toe AI — Unbeatable Minimax algorithm opponent",
         ]
 
     @property
@@ -46,7 +57,8 @@ class SanjayKumar:
         return [
             "Flask", "FastAPI", "MySQL", "PostgreSQL",
             "ESP32", "Blynk", "RAG", "Fine-Tuning",
-            "Flutter", "Kotlin", "Rust", "QR Payments",
+            "Flutter", "Kotlin", "Rust", "Java", "Selenium",
+            "Oracle APEX", "Gen AI", "Mini Compiler Design", "QR Payments",
         ]
 
     @property
@@ -55,6 +67,41 @@ class SanjayKumar:
 
 me = SanjayKumar()
 ```
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+**Oracle Certified Generative AI Professional**
+
+Credential issued by Oracle Education — covers Generative AI fundamentals, LLM concepts, prompt engineering, and enterprise AI integration using Oracle Cloud Infrastructure.
+
+[![🔗 View Credential](https://img.shields.io/badge/🔗%20View%20Credential-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=71DCEDF8FC63FFA01E72B9537C03461C1208DE252C54EC51BDEEAE035A6C08DC)
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/Oracle-APEX%20Developer%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+**Oracle APEX Developer Professional**
+
+Credential issued by Oracle Education — covers Oracle Application Express (APEX) app development, low-code design, REST APIs, database integration, and deployment on Oracle Cloud.
+
+[![🔗 View Credential](https://img.shields.io/badge/🔗%20View%20Credential-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4D7692E77AE9106C9711001CDA6DFF49A3A32BC76F330CB5744453C0B445195C)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -79,7 +126,7 @@ Classic Tic Tac Toe featuring an unbeatable AI opponent powered by the Minimax a
 
 **Stack:** JavaScript · Minimax Algorithm · HTML · CSS
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-0F0C29?style=for-the-badge)](https://tic-tac-toe-with-ai-04.netlify.app)
+[![▶ Play Now](https://img.shields.io/badge/▶%20Play%20Now-7C3AED?style=for-the-badge&logo=gamepad&logoColor=white)](https://tic-tac-toe-with-ai-04.netlify.app)
 
 </td>
 </tr>
@@ -139,7 +186,10 @@ A collaborative platform for students to upload, browse, and share study notes. 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -158,29 +208,39 @@ A collaborative platform for students to upload, browse, and share study notes. 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🤖 AI / ML
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Fine Tuning](https://img.shields.io/badge/Fine--Tuning-LLMs-4F46E5?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Oracle Gen AI](https://img.shields.io/badge/Oracle%20Gen%20AI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🧪 Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Bruno API](https://img.shields.io/badge/Bruno%20API-EC6B2D?style=for-the-badge&logo=bruno&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🔌 IoT & Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Blynk](https://img.shields.io/badge/Blynk-00979D?style=for-the-badge&logo=blynk&logoColor=white)
 
-### 🧪 API & Testing Tools
-![Bruno API](https://img.shields.io/badge/Bruno%20API-EC6B2D?style=for-the-badge&logo=bruno&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🧠 CS Fundamentals
+![Mini Compiler](https://img.shields.io/badge/Mini%20Compiler-Lexer%20·%20Parser%20·%20Semantic-302B63?style=for-the-badge&logo=gnubash&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-LeetCode%20Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP-Java%20%7C%20C%2B%2B%20%7C%20Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### ☁️ Deployment & Tools
+### ☁️ IDEs & Deployment
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
