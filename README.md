@@ -1,196 +1,207 @@
-# <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | AI Enthusiast | IoT Developer | Problem Solver
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Sanjay%20Kumar%20D&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20AI%2FML%20Builder&descAlignY=58&descSize=17&animation=fadeIn" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Flask+%7C+FastAPI+Developer;AI+%7C+RAG+%7C+Fine+Tuning;IoT+Developer+using+ESP32;Always+Learning+New+Technologies" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=I+build+things+that+actually+work+%E2%9A%A1;Flask+%7C+FastAPI+%7C+MySQL+%7C+PostgreSQL;IoT+with+ESP32+%26+Blynk;RAG+%7C+Fine-Tuning+%7C+AI+Integration;Breaking+things+to+make+them+better+%F0%9F%94%A5)](https://git.io/typing-svg)
 
----
+<br/>
 
-# 💫 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-kumar-89a79b32b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230F0C29.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjaykumard.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alphawolf_004)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snajyakumar4112006@gmail.com)
+[![Visit Count](https://visitcount.itsvg.in/api?id=sanjayreddy1&icon=5&color=9)](https://visitcount.itsvg.in)
 
-🔭 **Currently Working On**
-- 🚗 Smart Car Parking Web Application (Flask + MySQL)
-- 💰 AI Integrated Payroll & Salary Computation System
-- ⚡ IoT Smart Energy Meter using ESP32 + CT Sensor + LCD + Blynk
-
-👯 **Looking to Collaborate On**
-- Flask & FastAPI Projects
-- Django Web Applications
-- Socket.IO Real-time Systems
-- AI/ML Applications
-- IoT Projects
-
-🤝 **Looking for Help With**
-- Software Architecture
-- Scalable Backend Design
-- Deployment & DevOps
-- Production Ready Code
-
-🌱 **Currently Learning**
-- Data Structures & Algorithms
-- LeetCode
-- Software Testing
-- Backend Optimization
-- RAG Applications
-- Fine Tuning LLMs
-
-💬 **Ask Me About**
-- Flask
-- FastAPI
-- MySQL
-- PostgreSQL
-- AI Integration
-- RAG
-- ESP32
-- QR Payments
-- Smart Parking
-- Blynk
-- REST APIs
-- JWT Authentication
-
-⚡ **Fun Fact**
-
-> I don't build projects just for grades—I build them to solve real-world problems, even if it means breaking them a hundred times before they work.
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🧠 About Me
 
-<p align="left">
+```python
+class SanjayKumar:
+    def __init__(self):
+        self.name       = "Sanjay Kumar D"
+        self.role       = "Full Stack Developer & IoT Engineer"
+        self.location   = "India 🇮🇳"
 
-<a href="https://instagram.com/alphawolf_004">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
+    @property
+    def currently_building(self):
+        return [
+            "🚗 Smart Car Parking Web App  — Flask + MySQL + QR Payments",
+            "💼 AI-Integrated Payroll & Salary System — Billing Logic + AI",
+            "⚡ IoT Energy Meter — ESP32 + CT Sensor + LCD + Blynk",
+        ]
 
-<a href="https://linkedin.com/in/sanjay-kumar-89a79b32b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+    @property
+    def learning(self):
+        return ["DSA (LeetCode)", "Software Testing", "Backend Optimization", "Real-Time Systems"]
 
-<a href="https://sanjaykumard.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+    @property
+    def ask_me_about(self):
+        return ["Flask", "FastAPI", "MySQL", "PostgreSQL", "ESP32", "Blynk", "RAG", "Fine-Tuning", "QR Payments"]
 
-<a href="mailto:snajyakumar4112006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+    @property
+    def fun_fact(self):
+        return "I don't build for marks — I build to make things actually work 🔥"
 
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Live Demo |
-|----------|-------------|-----------|
-| 🚛 **Indian Logistics Optimization System** | Smart logistics platform for optimizing routes, shipment management, and transportation planning with an intuitive dashboard. | **https://indlogi.netlify.app** |
-| 🎮 **Tic Tac Toe with AI** | Play against an intelligent AI opponent using optimized game logic with a clean and responsive interface. | **https://tic-tac-toe-with-ai-04.netlify.app/** |
-| 🌱 **EcoSense** | Environmental awareness platform providing sustainability information, eco-friendly practices, and interactive resources. | **https://ecosense-seven.vercel.app/** |
-| 🎓 **SIMATS CGPA Calculator** | A fast and user-friendly CGPA calculator designed for SIMATS students with instant GPA and CGPA computation. | **https://simatscgpa.vercel.app/** |
-| 🛡️ **PhishLens** | AI-powered phishing detection web application that analyzes suspicious URLs and helps users identify phishing attacks. | **https://phishlens.vercel.app/** |
-| 📚 **Notes Sharing Platform** | A collaborative platform where students can upload, organize, and download academic notes securely. | **https://notes-sharingweb.vercel.app/** |
+me = SanjayKumar()
+```
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Projects
 
-### Languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🚛 Indian Logistics Optimization System
+A platform to streamline freight and logistics routing across India with intelligent route suggestions and real-time tracking support.
+
+**Stack:** HTML · CSS · JavaScript · Maps API
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-0F0C29?style=for-the-badge)](https://indlogi.netlify.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Tic Tac Toe with AI
+Classic Tic Tac Toe featuring an unbeatable AI opponent powered by the Minimax algorithm. Challenge the bot — spoiler: it won't go easy on you.
+
+**Stack:** JavaScript · Minimax Algorithm · HTML · CSS
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-0F0C29?style=for-the-badge)](https://tic-tac-toe-with-ai-04.netlify.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 EcoSense — Environmental App
+An eco-awareness platform displaying real-time air quality indices, pollution data, and sustainability tips to promote greener living.
+
+**Stack:** React · Vercel · AQI APIs · CSS
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-16A34A?style=for-the-badge)](https://ecosense-seven.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 CGPA Calculator
+Accurate CGPA calculator built for students on the SIMAS grading system. Supports multi-semester grade input and instant result calculation.
+
+**Stack:** JavaScript · HTML · CSS · Vercel
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-0F0C29?style=for-the-badge)](https://simatscgpa.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 PhishLens — Phishing URL Detector
+A cybersecurity tool that analyzes URLs in real time using pattern recognition and heuristics to detect and flag potential phishing threats.
+
+**Stack:** Python · Flask · NLP Heuristics · Vercel
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-DC2626?style=for-the-badge)](https://phishlens.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Notes Sharing App
+A collaborative platform for students to upload, browse, and share study notes. Clean UI with easy access for the entire student community.
+
+**Stack:** Flask · MySQL · HTML · CSS · Vercel
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-0F0C29?style=for-the-badge)](https://notes-sharingweb.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 AI / ML
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Fine Tuning](https://img.shields.io/badge/Fine--Tuning-LLMs-4F46E5?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🔌 IoT & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-00979D?style=for-the-badge&logo=blynk&logoColor=white)
+
+### 🧪 API & Testing Tools
+![Bruno API](https://img.shields.io/badge/Bruno%20API-EC6B2D?style=for-the-badge&logo=bruno&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### ☁️ Deployment & Tools
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### Backend
+## 📊 GitHub Stats
 
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST_API-green?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=sanjayreddy1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayreddy1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170"/>
 
-### Frontend
+<br/>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+<img src="https://nirzak-streak-stats.vercel.app/?user=sanjayreddy1&theme=tokyonight&hide_border=true" height="165"/>
 
----
+<br/><br/>
 
-### Database
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayreddy1&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
+</div>
 
 ---
 
-### AI / ML
+## 🏆 GitHub Trophies
 
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![RAG](https://img.shields.io/badge/RAG-FF9800?style=for-the-badge)
-![Fine Tuning](https://img.shields.io/badge/Fine_Tuning-red?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-blueviolet?style=for-the-badge)
+<div align="center">
 
----
+![](https://github-profile-trophy.vercel.app/?username=sanjayreddy1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
-### IoT
-
-![ESP32](https://img.shields.io/badge/ESP32-red?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge)
+</div>
 
 ---
 
-### Tools
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Bruno API](https://img.shields.io/badge/Bruno_API-FF6C37?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+*"First, solve the problem. Then, write the code."* — John Johnson
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" />
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sanjayreddy1&theme=tokyonight&hide_border=true&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanjayreddy1&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayreddy1&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sanjayreddy1&theme=radical&no-frame=true&margin-w=10)
-
----
-
-# 📈 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=sanjayreddy1&icon=5&color=6)
-
----
-
-# ✨ Quote
-
-> **"Code. Break. Learn. Improve. Repeat."**
-
----
-
-<p align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-</p>
+</div>
