@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Sanjay%20Kumar%20D&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20AI%2FML%20Builder&descAlignY=58&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Sanjay%20Kumar%20D&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20IoT%20Engineer%20%7C%20AI%2FML%20%7C%20Mobile%20Developer&descAlignY=58&descSize=17&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=I+build+things+that+actually+work+%E2%9A%A1;Flask+%7C+FastAPI+%7C+MySQL+%7C+PostgreSQL;IoT+with+ESP32+%26+Blynk;RAG+%7C+Fine-Tuning+%7C+AI+Integration;Breaking+things+to+make+them+better+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+things+that+actually+work+%E2%9A%A1;Flask+%7C+FastAPI+%7C+MySQL+%7C+PostgreSQL;Flutter+%7C+Kotlin+%7C+Rust+%7C+Mobile+Dev;IoT+with+ESP32+%26+Blynk;RAG+%7C+Fine-Tuning+%7C+AI+Integration;Breaking+things+to+make+them+better+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@
 class SanjayKumar:
     def __init__(self):
         self.name       = "Sanjay Kumar D"
-        self.role       = "Full Stack Developer & IoT Engineer"
+        self.role       = "Full Stack · Mobile · IoT · AI/ML Developer"
         self.location   = "India 🇮🇳"
 
     @property
@@ -35,11 +35,19 @@ class SanjayKumar:
 
     @property
     def learning(self):
-        return ["DSA (LeetCode)", "Software Testing", "Backend Optimization", "Real-Time Systems"]
+        return [
+            "DSA (LeetCode)", "Software Testing",
+            "Backend Optimization", "Real-Time Systems",
+            "Rust Systems Programming", "Flutter Mobile Dev",
+        ]
 
     @property
     def ask_me_about(self):
-        return ["Flask", "FastAPI", "MySQL", "PostgreSQL", "ESP32", "Blynk", "RAG", "Fine-Tuning", "QR Payments"]
+        return [
+            "Flask", "FastAPI", "MySQL", "PostgreSQL",
+            "ESP32", "Blynk", "RAG", "Fine-Tuning",
+            "Flutter", "Kotlin", "Rust", "QR Payments",
+        ]
 
     @property
     def fun_fact(self):
@@ -129,9 +137,17 @@ A collaborative platform for students to upload, browse, and share study notes. 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin%20Android-7F52FF?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### ⚙️ Frameworks & Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
