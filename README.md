@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230F0C29.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjaykumard.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alphawolf_004)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snajyakumar4112006@gmail.com)
-[![Visit Count](https://visitcount.itsvg.in/api?id=sanjayreddy1&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
 </div>
 
