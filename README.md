@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Sanjay%20Kumar%20D&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20IoT%20Engineer%20%7C%20AI%2FML%20%7C%20Mobile%20Developer&descAlignY=58&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Sanjay%20Kumar%20D&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20Mobile%20%7C%20Systems%20Developer&descAlignY=58&descSize=17&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+things+that+actually+work+%E2%9A%A1;Flask+%7C+FastAPI+%7C+MySQL+%7C+PostgreSQL;Flutter+%7C+Kotlin+%7C+Rust+%7C+Mobile+Dev;IoT+with+ESP32+%26+Blynk;RAG+%7C+Fine-Tuning+%7C+AI+Integration;Oracle+Certified+Gen+AI+%26+APEX+Developer+%F0%9F%8F%85;Mini+Compiler+Designer+%F0%9F%A7%A0;Breaking+things+to+make+them+better+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=I+build+things+that+actually+work+%E2%9A%A1;Flask+%7C+FastAPI+%7C+MySQL+%7C+PostgreSQL;Flutter+%7C+Kotlin+%7C+Rust+%7C+Mobile+Dev;Distributed+Systems+%7C+Task+Schedulers+in+Rust;ML+for+Medical+Intelligence+%F0%9F%A7%A0;Oracle+Certified+Gen+AI+%26+APEX+Developer+%F0%9F%8F%85;Breaking+things+to+make+them+better+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230F0C29.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjaykumard.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alphawolf_004)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snajyakumar4112006@gmail.com)
-
+[![Visit Count](https://visitcount.itsvg.in/api?id=sanjayreddy1&icon=5&color=9)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -22,7 +22,7 @@
 class SanjayKumar:
     def __init__(self):
         self.name         = "Sanjay Kumar D"
-        self.role         = "Full Stack · Mobile · IoT · AI/ML Developer"
+        self.role         = "Full Stack · Mobile · IoT · Systems · AI/ML Developer"
         self.location     = "India 🇮🇳"
         self.certifications = [
             "🏅 Oracle Certified — Generative AI Professional",
@@ -40,7 +40,9 @@ class SanjayKumar:
     @property
     def highlight_projects(self):
         return [
-            "🧠 Mini Compiler — Lexer + Parser + Semantic Analyzer built from scratch",
+            "⚙️  Distributed Task Scheduler — Built in Rust from scratch",
+            "🧠 ML for Medical Intelligence — Disease prediction & diagnosis",
+            "🔬 Mini Compiler — Lexer + Parser + Semantic Analyzer",
             "🤖 Tic Tac Toe AI — Unbeatable Minimax algorithm opponent",
         ]
 
@@ -58,7 +60,8 @@ class SanjayKumar:
             "Flask", "FastAPI", "MySQL", "PostgreSQL",
             "ESP32", "Blynk", "RAG", "Fine-Tuning",
             "Flutter", "Kotlin", "Rust", "Java", "Selenium",
-            "Oracle APEX", "Gen AI", "Mini Compiler Design", "QR Payments",
+            "Oracle APEX", "Gen AI", "Distributed Systems",
+            "Mini Compiler Design", "QR Payments",
         ]
 
     @property
@@ -82,7 +85,7 @@ me = SanjayKumar()
 
 **Oracle Certified Generative AI Professional**
 
-Credential issued by Oracle Education — covers Generative AI fundamentals, LLM concepts, prompt engineering, and enterprise AI integration using Oracle Cloud Infrastructure.
+Covers Generative AI fundamentals, LLM concepts, prompt engineering, and enterprise AI integration using Oracle Cloud Infrastructure.
 
 [![🔗 View Credential](https://img.shields.io/badge/🔗%20View%20Credential-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=71DCEDF8FC63FFA01E72B9537C03461C1208DE252C54EC51BDEEAE035A6C08DC)
 
@@ -93,7 +96,7 @@ Credential issued by Oracle Education — covers Generative AI fundamentals, LLM
 
 **Oracle APEX Developer Professional**
 
-Credential issued by Oracle Education — covers Oracle Application Express (APEX) app development, low-code design, REST APIs, database integration, and deployment on Oracle Cloud.
+Covers Oracle Application Express (APEX) app development, low-code design, REST APIs, database integration, and deployment on Oracle Cloud.
 
 [![🔗 View Credential](https://img.shields.io/badge/🔗%20View%20Credential-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4D7692E77AE9106C9711001CDA6DFF49A3A32BC76F330CB5744453C0B445195C)
 
@@ -106,6 +109,8 @@ Credential issued by Oracle Education — covers Oracle Application Express (APE
 ---
 
 ## 🚀 Projects
+
+### 🌐 Live Projects
 
 <table>
 <tr>
@@ -158,7 +163,7 @@ Accurate CGPA calculator built for students on the SIMAS grading system. Support
 ### 🔐 PhishLens — Phishing URL Detector
 A cybersecurity tool that analyzes URLs in real time using pattern recognition and heuristics to detect and flag potential phishing threats.
 
-**Stack:** Python · Flask · NLP Heuristics · Vercel
+**Stack:** Python · Flask · TypeScript · NLP Heuristics
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-DC2626?style=for-the-badge)](https://phishlens.vercel.app)
 
@@ -178,6 +183,79 @@ A collaborative platform for students to upload, browse, and share study notes. 
 
 ---
 
+### ⚙️ Systems & Research Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Distributed Task Scheduler
+A concurrent, distributed task scheduler built entirely in Rust. Focuses on performance, memory safety, and reliable job execution across distributed nodes.
+
+**Stack:** Rust · Concurrency · Distributed Systems
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjayreddy1/distributed-task-scheduler)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 ML for Medical Intelligence
+A machine learning system for medical diagnosis and disease prediction. Applies supervised learning models to healthcare data for actionable clinical insights.
+
+**Stack:** Python · Scikit-learn · Pandas · NumPy · ML Algorithms
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjayreddy1/ITA-0657-Machine-Learning-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚌 Bus App
+A Python-based bus booking and scheduling application with route management, seat selection, and passenger tracking features.
+
+**Stack:** Python · Flask · MySQL
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjayreddy1/busapp4)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Technical Support Knowledge Base
+A structured knowledge base system for managing and retrieving technical support articles, FAQs, and troubleshooting guides efficiently.
+
+**Stack:** Python · Flask · Search · REST API
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjayreddy1/technical-support-kb)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Algorithms & Complexity
+Academic project covering Design and Analysis of Algorithms — includes implementations of sorting, graph traversal, dynamic programming, and complexity analysis.
+
+**Stack:** C · C++ · Python · Algorithm Design
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjayreddy1/CSA-0635-)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Mini Compiler
+A compiler built from scratch implementing a full pipeline — Lexical Analysis (Lexer), Syntax Analysis (Parser), and Semantic Analysis stages.
+
+**Stack:** C · Java · Compiler Design · Automata Theory
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjayreddy1)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### 🖥️ Languages
@@ -190,6 +268,7 @@ A collaborative platform for students to upload, browse, and share study notes. 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -204,6 +283,11 @@ A collaborative platform for students to upload, browse, and share study notes. 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -216,6 +300,9 @@ A collaborative platform for students to upload, browse, and share study notes. 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Oracle Gen AI](https://img.shields.io/badge/Oracle%20Gen%20AI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🧪 Testing & QA
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -232,11 +319,16 @@ A collaborative platform for students to upload, browse, and share study notes. 
 ![Mini Compiler](https://img.shields.io/badge/Mini%20Compiler-Lexer%20·%20Parser%20·%20Semantic-302B63?style=for-the-badge&logo=gnubash&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-LeetCode%20Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![OOP](https://img.shields.io/badge/OOP-Java%20%7C%20C%2B%2B%20%7C%20Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-Rust%20Scheduler-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### ☁️ IDEs & Deployment
+### ☁️ DevOps, Workflow & IDEs
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=github&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
